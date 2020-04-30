@@ -1,0 +1,4 @@
+1.Create a virtual env with virtualenv venv
+2.Activate the virtual env venv\Scripts\activate
+3.Run main
+4.Deactivate the virtual env venv\Scripts\deactivate
